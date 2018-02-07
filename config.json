@@ -9,9 +9,9 @@
 	"virus": {
     "fill": "#33ff33",
   	"stroke": "#19D119",
-		"strokeWidth": 20,
+		"strokeWidth": 50,
 		"defaultMass": {
-            "from": 100,
+            "from": 10,
             "to": 150
         },
 		"splitMass": 180
